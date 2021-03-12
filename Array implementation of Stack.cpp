@@ -1,3 +1,5 @@
+//Time complexity of all stack operations is O(1).
+
 #include <bits/stdc++.h>
 using namespace std;
 
